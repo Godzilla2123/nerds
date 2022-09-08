@@ -1,1 +1,1 @@
-# nerds
+# Get blocked nerds
